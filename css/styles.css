@@ -1,0 +1,13 @@
+:root {
+  --header-title-font: normal normal bold 3.4rem/3.4rem  "consolas","Inconsolata", monospace;
+  --title-name-font: normal normal bold 2.2rem/2.2rem  "consolas","Inconsolata", monospace;
+  --font: "Inter", sans-serif;
+  --font-header-nav: 1.4rem var(--font);
+  --font-subtitle: 2.5rem var(--font);
+  --font-p: 1.3rem var(--font);
+  --font-references: 1rem var(--font);
+  --color-primary: #00263E;
+  --color-secundary: #C1E0EB;
+  --color-terciary: #EEF3F6;
+}
+
